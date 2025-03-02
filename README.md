@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I did my undergrad in EE, left my core EE Govt Job and here today working as Software Developer. Life is full of unmanifested fun 🤡!
  
 
-Ckeckout my Leetcode stats 
+Ckeckout my Leetcode stats, Click on image to visit my leetcode profile.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/2_6_j_k_m_9_3)](https://leetcode.com/2_6_j_k_m_9_3)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/2_6_j_k_m_9_3/lapor?ext=contest)](https://leetcode.com/2_6_j_k_m_9_3)
