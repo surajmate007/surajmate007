@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 Ckeckout my Leetcode stats 
 
-![Leetcode Stats](![](https://leetcard.jacoblin.cool/lapor?ext=contest)(https://leetcode.com/JacobLinCool))
+![Leetcode Stats](![](https://leetcard.jacoblin.cool/lapor?ext=contest))
