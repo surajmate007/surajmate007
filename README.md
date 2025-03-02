@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  
 
 Ckeckout my Leetcode stats, Click on image to visit my leetcode profile.
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![](https://leetcard.jacoblin.cool/2_6_j_k_m_9_3?ext=contest)
 
 other stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/2_6_j_k_m_9_3)](https://leetcode.com/2_6_j_k_m_9_3)
