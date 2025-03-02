@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Physics, Electrical Engineering, Cyber Security. Maybe History as well if you are interested in WW2 💣.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/suraj-mate/ or mail me at : matesuraj86@gmail.com
 - ⚡ Fun fact: I did my undergrad in EE, left my core EE Govt Job and here today working as Software Developer. Life is full of unmanifested fun 🤡!
---> Ckeckout my Leetcode stats 
+ 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/2_6_j_k_m_9_3)
+Ckeckout my Leetcode stats 
+
+![Leetcode Stats]([https://leetcard.jacoblin.cool/2_6_j_k_m_9_3](https://leetcard.jacoblin.cool/2_6_j_k_m_9_3?theme=dark&font=Noto%20Sans%20Bamum&ext=contest))
